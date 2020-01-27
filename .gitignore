@@ -1,0 +1,9 @@
+.vs/HomesDataAPI/config/applicationhost.config
+.vs/HomesDataAPI/DesignTimeBuild/.dtbcache
+.vs/HomesDataAPI/v16/.suo
+.vs/HomesDataAPI/v16/Server/sqlite3/db.lock
+.vs/HomesDataAPI/v16/Server/sqlite3/storage.ide
+*.dll
+
+HomesDataAPI2/bin/Debug/
+HomesDataAPI2/obj/
